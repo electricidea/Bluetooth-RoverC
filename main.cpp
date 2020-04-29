@@ -15,7 +15,7 @@
  * 
  * Hague Nusseck @ electricidea
  * v1.4 28.Apr.2020
- * https://github.com/electricidea/xxxx
+ * https://github.com/electricidea/Bluetooth-RoverC
  * 
  * 
  * 
